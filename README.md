@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/takanassyi/react-tutorial-ts-mui.svg)](https://github.com/takanassyi/react-tutorial-ts-mui/issues)
+[![GitHub forks](https://img.shields.io/github/forks/takanassyi/react-tutorial-ts-mui.svg)](https://github.com/takanassyi/react-tutorial-ts-mui/network)
+[![GitHub stars](https://img.shields.io/github/stars/takanassyi/react-tutorial-ts-mui.svg)](https://github.com/takanassyi/react-tutorial-ts-mui/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/takanassyi/react-tutorial-ts-mui/pulls)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
